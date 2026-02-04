@@ -1,19 +1,19 @@
 # SQL-Data-Analytics-Capstone-Case-Study
 ## Bike-Share capstone study (Cyclistic)
 
-#Introuction and Background: 
+# Introduction and Background: 
 ### This project a capstone study through the Merit America- Google Data analytics course. 
 The analysis focuses on using SQL to explore, clean, and model large-scale bike-share data in order to derive insights that support business decision-making.
 
 ---
 
-##Tools: 
+## Tools: 
 - **Excel**: Inspection, cleaning and preparation data
 - **SQL** : Data transformation, agregation, and analytical querying
 
 ---
 
-#Dataset
+# Dataset
 ** The Cyclistic (Divvy) Bike-share Tripdata**
 - Source : https://divvy-tripdata.s3.amazonaws.com/index.html
 - License: https://divvybikes.com/data-license-agreement
