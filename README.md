@@ -64,3 +64,6 @@ This repository focuses exclusively on **SQL-based analysis**, including data mo
 Exploratory analysis and visualization using R are documented separately and linked where applicable.
 
 
+Acknowledgements: This is the first of SQL data query style as taught by "DATA With BARAA" https://www.datawithbaraa.com/
+
+
