@@ -1,18 +1,16 @@
 /*
 ------------------------------------------------------------------------------------
-DDL Bronze Layer: The first step of the **Medallion Data Architecyure**
+DDL Bronze Layer: The first step of the **Medallion Data Architecture**
 ------------------------------------------------------------------------------------
 Script Purpose:
 
-In this stage, the schema is defined, data from *Excel* is migrated
+In this stage, data is transfered from excel to the SQL server, the datatype is clearly defined on
+
+a baseline of NVARCHAR, intentionally, in order to fix the momentary  unrecognizability 
 
 using appropriate Data Definition Language (DDL), the datatype is aligned for portability,
 
 and the source data's integrity  is preserved
-------------------------------------------------------------------------------------
-Note:  
-
-No business logic or analytical transformations are done in this stage. End of entry to clarify the folder as normal. I am making subfolders the extension for the bronze, silver, and gold in the main branch is from "main" but when I open and attempt to edit by adding a "/Bronze/DDL...title, it says the folder already exists
 ----------------------------------------------------------------------------------------
 */
 
