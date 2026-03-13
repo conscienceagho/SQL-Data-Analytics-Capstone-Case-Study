@@ -14,7 +14,7 @@ The analysis focuses on using SQL to explore, clean, and model large-scale bike-
 ---
 
 # Dataset
-** The Cyclistic (Divvy) Bike-share Tripdata**
+## The Cyclistic (Divvy) Bike-share Tripdata 
 - Source : https://divvy-tripdata.s3.amazonaws.com/index.html
 - License: https://divvybikes.com/data-license-agreement
 
